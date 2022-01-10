@@ -1,0 +1,6 @@
+name=ALYS DB2 JPN BASE
+image=ALYS_icon.jpg
+author=VoxWave S.A.S.
+contributor=mikayuuchann
+web=https://labs.phundrak.com/phundrak/ALYS
+license=GPL-3.0
