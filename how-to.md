@@ -16,6 +16,6 @@ From here on, ALYS_DB_002_JPN will be referred to as DB_002, and ALYS_DB_001_JPN
 11) Put the DB_002 folder in your UTAU voice folder if you haven't already. The bank is now usable. You may also want to delete duplicated oto entries (if you chose to rename the duplicate oto entries when you ran moresampler, you can just delete the oto entires that have a number at the end).
 
 ## Resources
-[Original DBs](https://labs.phundrak.com/ALYS)
-[moresampler 0.8.4 DL](https://cocoacacao.wixsite.com/cocoa/moresampler-archive)
-[moresampler auto vcv tutorial](https://www.youtube.com/watch?v=QSDZBeFNPnc)
+- [Original DBs](https://labs.phundrak.com/ALYS)
+- [moresampler 0.8.4 DL](https://cocoacacao.wixsite.com/cocoa/moresampler-archive)
+- [moresampler auto vcv tutorial](https://www.youtube.com/watch?v=QSDZBeFNPnc)
