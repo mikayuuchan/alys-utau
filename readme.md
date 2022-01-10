@@ -28,9 +28,9 @@ Recommended resampler is moresampler. ALYS has very slow consonants, so a high c
 This voicebank is available under the GPL-3.0 license.
 
 ## Resources
-[Original DBs](https://labs.phundrak.com/ALYS)
-[moresampler 0.8.4 DL](https://cocoacacao.wixsite.com/cocoa/moresampler-archive)
-[moresampler auto vcv tutorial](https://www.youtube.com/watch?v=QSDZBeFNPnc)
+- [Original DBs](https://labs.phundrak.com/ALYS)
+- [moresampler 0.8.4 DL](https://cocoacacao.wixsite.com/cocoa/moresampler-archive)
+- [moresampler auto vcv tutorial](https://www.youtube.com/watch?v=QSDZBeFNPnc)
 
 ## Contact
 If you have any questions, troubleshooting issues, or find missing samples I overlooked, feel free to DM or @ me on [Twitter](https://twitter.com/mikayuu_chan), send an ask or message me on [Tumblr](https://mikayuu-chann.tumblr.com/), or create an issue or pull request on the github repo.
