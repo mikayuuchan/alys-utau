@@ -13,3 +13,4 @@ Alys is created by VoxWave S.A.S.
 https://labs.phundrak.com/ALYS
 
 Voicebank modified by mikayuuchann.
+https://github.com/mikayuuchan/alys-utau
